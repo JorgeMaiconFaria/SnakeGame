@@ -1,3 +1,3 @@
 # SnakeGame
 
-Jogo da cobrinha feito um Java usando JFrame.
+Jogo da cobrinha feito em Java usando JFrame.
